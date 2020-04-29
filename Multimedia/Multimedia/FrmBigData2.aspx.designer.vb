@@ -11,16 +11,16 @@ Option Strict On
 Option Explicit On
 
 
-Partial Public Class FrmMenuAsp
+Partial Public Class FrmBigData2
     
     '''<summary>
-    '''Control frmmenuasp.
+    '''Control frmBigData2asp.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents frmmenuasp As Global.System.Web.UI.HtmlControls.HtmlForm
+    Protected WithEvents frmBigData2asp As Global.System.Web.UI.HtmlControls.HtmlForm
     
     '''<summary>
     '''Control Panel1.
@@ -41,49 +41,49 @@ Partial Public Class FrmMenuAsp
     Protected WithEvents Btn1 As Global.System.Web.UI.WebControls.Button
     
     '''<summary>
-    '''Control imgAsp.
+    '''Control imgBig_Data.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents imgAsp As Global.System.Web.UI.WebControls.Image
+    Protected WithEvents imgBig_Data As Global.System.Web.UI.WebControls.Image
     
     '''<summary>
-    '''Control BtnTema2.
+    '''Control Btn2.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents BtnTema2 As Global.System.Web.UI.WebControls.Button
+    Protected WithEvents Btn2 As Global.System.Web.UI.WebControls.Button
     
     '''<summary>
-    '''Control BtnTema3.
+    '''Control Btn3.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents BtnTema3 As Global.System.Web.UI.WebControls.Button
+    Protected WithEvents Btn3 As Global.System.Web.UI.WebControls.Button
     
     '''<summary>
-    '''Control BtnTema4.
+    '''Control Btn4.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents BtnTema4 As Global.System.Web.UI.WebControls.Button
+    Protected WithEvents Btn4 As Global.System.Web.UI.WebControls.Button
     
     '''<summary>
-    '''Control BtnEvaluacion.
+    '''Control BtnExamen.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents BtnEvaluacion As Global.System.Web.UI.WebControls.Button
+    Protected WithEvents BtnExamen As Global.System.Web.UI.WebControls.Button
     
     '''<summary>
     '''Control BtnRegresar.

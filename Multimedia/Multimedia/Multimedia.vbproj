@@ -139,6 +139,7 @@
     <Content Include="About.aspx" />
     <Content Include="ASP.png" />
     <Content Include="bienvenida.JPG" />
+    <Content Include="Big_Data.jpg" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
@@ -149,6 +150,7 @@
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="FrmBigData2.aspx" />
     <Content Include="FrmCaracteristicas.aspx" />
     <Content Include="FrmExamenAsp.aspx" />
     <Content Include="FrmExtension.aspx" />
@@ -166,6 +168,7 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
+    <Content Include="HistoriaBig.aspx" />
     <Content Include="logounad.PNG" />
     <Content Include="Modelos.JPG" />
     <Content Include="Scripts\bootstrap.js" />
@@ -230,6 +233,13 @@
     <Compile Include="Default.aspx.designer.vb">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
+    <Compile Include="FrmBigData2.aspx.designer.vb">
+      <DependentUpon>FrmBigData2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBigData2.aspx.vb">
+      <DependentUpon>FrmBigData2.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="FrmCaracteristicas.aspx.designer.vb">
       <DependentUpon>FrmCaracteristicas.aspx</DependentUpon>
     </Compile>
@@ -281,6 +291,13 @@
     </Compile>
     <Compile Include="Global.asax.vb">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="HistoriaBig.aspx.designer.vb">
+      <DependentUpon>HistoriaBig.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HistoriaBig.aspx.vb">
+      <DependentUpon>HistoriaBig.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
