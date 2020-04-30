@@ -13,18 +13,19 @@
     End Sub
 
     Protected Sub BtnTema2_Click(sender As Object, e As EventArgs) Handles Btn2.Click
-        Response.Redirect("FrmCaracteristicas.aspx")
+
+        Response.Redirect("FrmImportanciaBig.aspx")
     End Sub
 
     Protected Sub BtnTema3_Click(sender As Object, e As EventArgs) Handles Btn3.Click
-        Response.Redirect("FrmExtension.aspx")
+        Response.Redirect("FrmDesafiosBig.aspx")
     End Sub
 
     Protected Sub BtnTema4_Click(sender As Object, e As EventArgs) Handles Btn4.Click
-        Response.Redirect("FrmModelos.aspx")
+        Response.Redirect("FrmUtilizacionBig.aspx")
     End Sub
 
-    Protected Sub BtnEvaluacion_Click(sender As Object, e As EventArgs) Handles BtnEvaluacion.Click
-        Response.Redirect("FrmExamenAsp.aspx")
+    Protected Sub BtnExamen_Click(sender As Object, e As EventArgs) Handles BtnExamen.Click
+        Response.Redirect("FrmExamenBig.aspx")
     End Sub
 End Class

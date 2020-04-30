@@ -146,6 +146,8 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
+    <Content Include="DesafiosBig.aspx" />
+    <Content Include="ExamenBig.aspx" />
     <Content Include="FrmAsp.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
@@ -169,8 +171,10 @@
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="HistoriaBig.aspx" />
+    <Content Include="ImportanciaBig.aspx" />
     <Content Include="logounad.PNG" />
     <Content Include="Modelos.JPG" />
+    <Content Include="PrincipalBig.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
@@ -199,6 +203,8 @@
     <Content Include="Scripts\WebForms\WebForms.js" />
     <Content Include="Scripts\WebForms\WebParts.js" />
     <Content Include="Scripts\WebForms\WebUIValidation.js" />
+    <Content Include="UtilizacionBig.aspx" />
+    <Content Include="UtilizacionBig.png" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
   </ItemGroup>
@@ -217,6 +223,20 @@
     </Compile>
     <Compile Include="Contact.aspx.vb">
       <DependentUpon>Contact.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="DesafiosBig.aspx.designer.vb">
+      <DependentUpon>DesafiosBig.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DesafiosBig.aspx.vb">
+      <DependentUpon>DesafiosBig.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ExamenBig.aspx.designer.vb">
+      <DependentUpon>ExamenBig.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ExamenBig.aspx.vb">
+      <DependentUpon>ExamenBig.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="FrmAsp.aspx.designer.vb">
@@ -299,6 +319,13 @@
       <DependentUpon>HistoriaBig.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
+    <Compile Include="ImportanciaBig.aspx.designer.vb">
+      <DependentUpon>ImportanciaBig.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImportanciaBig.aspx.vb">
+      <DependentUpon>ImportanciaBig.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -318,12 +345,26 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="PrincipalBig.aspx.designer.vb">
+      <DependentUpon>PrincipalBig.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PrincipalBig.aspx.vb">
+      <DependentUpon>PrincipalBig.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="Site.Master.designer.vb">
       <DependentUpon>Site.Master</DependentUpon>
     </Compile>
     <Compile Include="Site.Master.vb">
       <DependentUpon>Site.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UtilizacionBig.aspx.designer.vb">
+      <DependentUpon>UtilizacionBig.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UtilizacionBig.aspx.vb">
+      <DependentUpon>UtilizacionBig.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="ViewSwitcher.ascx.vb">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>

@@ -8,4 +8,8 @@
     Protected Sub btnRegresar_Click(sender As Object, e As EventArgs) Handles btnRegresar.Click
         Response.Redirect("FrmMenuAsp.aspx")
     End Sub
+
+    Protected Sub BtnRegresar_Click1(sender As Object, e As EventArgs) Handles BtnRegresar.Click
+
+    End Sub
 End Class

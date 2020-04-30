@@ -109,19 +109,19 @@
                     </tr>
                     <tr>
                         <td class="auto-style59">
-                            <asp:Button ID="Btn2" runat="server" BackColor="#0066FF" Font-Bold="True" Font-Italic="True" Font-Size="X-Large" ForeColor="White" Height="53px" Text="Caracteristicas" Width="420px" />
+                            <asp:Button ID="Btn2" runat="server" BackColor="#0066FF" Font-Bold="True" Font-Italic="True" Font-Size="X-Large" ForeColor="White" Height="53px" Text="Importancia del Big Data" Width="420px" />
                         </td>
                         <td class="auto-style40"></td>
                     </tr>
                     <tr>
                         <td class="auto-style58">
-                            <asp:Button ID="Btn3" runat="server" BackColor="#0066FF" Font-Bold="True" Font-Italic="True" Font-Size="X-Large" ForeColor="White" Height="53px" Text="Extensiones" Width="420px" />
+                            <asp:Button ID="Btn3" runat="server" BackColor="#0066FF" Font-Bold="True" Font-Italic="True" Font-Size="X-Large" ForeColor="White" Height="53px" Text="Desafíos del Big Data" Width="420px" />
                         </td>
                         <td class="auto-style62"></td>
                     </tr>
                     <tr>
                         <td class="auto-style60">
-                            <asp:Button ID="Btn4" runat="server" BackColor="#0066FF" Font-Bold="True" Font-Italic="True" Font-Size="X-Large" ForeColor="White" Height="53px" Text="Modelos de programación ASP.Net" Width="420px" />
+                            <asp:Button ID="Btn4" runat="server" BackColor="#0066FF" Font-Bold="True" Font-Italic="True" Font-Size="X-Large" ForeColor="White" Height="53px" Text="Empresas que lo Utilizan" Width="420px" />
                         </td>
                         <td class="auto-style43"></td>
                     </tr>
